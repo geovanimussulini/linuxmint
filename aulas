@@ -1,1 +1,232 @@
 
+Objetivo da aula de hoje: 11/11/2025
+
+#01_ Se autenticar com a sua conta no Github
+
+#02_ Material das aulas de GNU/Linux Desktop
+https://github.com/vaamonde/dell-linuxmint
+
+#03_ Material das aulas na Rede SENAC-TAT
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint-NOITE
+
+#04_ Material Extra de Estudos de GNU/Linux
+a) Guia Foca: https://guiafoca.org/
+b) SS64: https://ss64.com/
+c) Aurelio: https://aurelio.net/
+d) DistroWatch: https://distrowatch.com/
+e) Linux Fundation: https://www.linuxfoundation.org/
+f) Kernel: https://kernel.org/
+g) LPI: https://learning.lpi.org/pt/
+
+Market Share Operation System World
+https://www.procurri.com/knowledge-hub/global-os-market-share-2025-key-stats-trends-and-insights-for-mobile-and-desktop/
+
+https://w3techs.com/technologies/overview/operating_system
+
+#04_ Copiar a ISO do Linux Mint 22.2 para o seu computador: ok
+
+#05_ Criar a máquna Virtual no VirtualBOX
+Link: https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22.2-virtualbox-7.1.md
+
+#06_ Instalar o Linux Mint 22.2 Zara
+Link: https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22.2-virtualbox-7.1.md
+
+#07_ Atualizar o Linux Mint (MintUpdate)
+Link: https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22.2-virtualbox-7.1.md
+
+#06_ Instalar os Convidados do VirtualBOX
+Link: https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22.2-virtualbox-7.1.md
+----------------------------------------------------------------------------------------------------------------------
+
+Objetivo da aula de hoje: 13/11/2025
+
+#01_ Se autenticar com a sua conta no Github
+
+#02_ Material das aulas de GNU/Linux Desktop
+https://github.com/vaamonde/dell-linuxmint
+
+#03_ Material das aulas na Rede SENAC-TAT
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#04_ Material Extra de Estudos de GNU/Linux
+a) Guia Foca: https://guiafoca.org/
+b) SS64: https://ss64.com/
+c) Aurelio: https://aurelio.net/
+d) DistroWatch: https://distrowatch.com/
+e) LPI: https://learning.lpi.org/pt/
+
+#05_ Instalação de Softwares (Navegadores - Ícone desktop)
+
+a) Navegador "PADRÃO" do Linux Mint Mozilla Firefox
+https://www.firefox.com/pt-BR/
+
+b) Navegador Google Chrome (PT-BR)
+https://www.google.com/intl/pt-BR/chrome/
+
+Distribuições GNU/Linux e seus Pacotes
+
+Slackware (1993)
+pacote: .tgz (slackpkg)
+
+Debian (1993) --> Ubuntu (2004) --> Linux Mint (2006)
+pacote: .deb (apt-get, apt ou dpkg)
+
+Red Hat (1995) --> Fedora (2003)
+pacote: .rpm (dnf, yum ou rpm)
+
+Arch Linux (2002) --> Manjaro (2011)
+pacote: ..pkg.tar ou .tar.zst (pacman)
+
+Linux Mint 22.2 (Codinome Zara) é Baseado no Ubuntu 24.04. (Codinome Noble)
+
+Debian: https://www.debian.org/
+Ubuntu: https://ubuntu.com/
+Linux Mint: https://linuxmint.com/
+
+Dica de como pesquisar no Google: COMO INSTALAR O NAVEGADOR XYZ NO LINUX MINT 22.2
+
+c) Navegador Microsoft Edge for Linux (BETA)
+https://www.microsoft.com/pt-br/edge/download?form=MA13FJ
+
+d) Navegador Brave
+https://brave.com/linux/
+
+e) Navegador Vivaldi
+https://vivaldi.com/pt-br/download/
+
+f) Navegador Opera (não usar Opera-X atual GX não tem versão para Linux)
+https://www.opera.com/pt-br
+
+g) Navegador Midori
+https://astian.org/midori-browser/linux/
+
+h) Navegador Chromium (Base do Google Chrome e Edge)
+https://www.chromium.org/getting-involved/download-chromium/
+Dica: Gerenciador de Aplicativo (Flatpak ou Pacote)
+
+i) Navegador Falkon (Novo, nunca usei, boa sorte)
+https://flathub.org/en/apps/org.kde.falkon/install
+Dica: Gerenciador de Aplicativo (Flatpak ou Pacote)
+
+j) Navegador Tor (Rede do SENAC bloqueia o acesso a rede mais permite instalar, na hoora de executar vai bloquear o acesso rede)
+Dica: Terminal
+
+#06_ Conhecendo o site Alternative To (Alternativas para)
+Link: https://alternativeto.net/
+
+#07_ Buscar alternativas para o: Microsoft Office
+
+a) Pacote Office "PADRÃO" do Linux Mint LibreOffice
+https://www.libreoffice.org/download/download-libreoffice/
+
+b) WPS Office: https://br.wps.com/  
+c) Free Office: https://www.freeoffice.com/pt/
+d) Only Office Desktop: https://www.onlyoffice.com/pt/desktop
+
+#08_ Conhecendo o Terminal e Instalando Softwares de Editores de Texto Profissional
+
+a) Instalação do Visual Studio Code (VSCode)
+https://code.visualstudio.com/
+
+b) Instalação do NotepadQQ (versão alternativa do Notepad++ do Windows) 
+https://notepadqq.com/
+
+c) Instalação do Editor de Texto por linha de comando VIM 
+https://www.vim.org/
+
+d) Instalação do Git (para integração com o Github)
+https://git-scm.com/
+
+e) Instalando todo os software via Terminal
+sudo apt install git vim notepadqq
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Objetivo da aula de hoje: 17/11/2025
+
+#01_ Se autenticar com a sua conta no Github no Windows (desktop senac) e também no Linux Mint.
+
+#02_ Material das aulas de GNU/Linux Desktop
+https://github.com/vaamonde/dell-linuxmint
+
+#03_ Material das aulas na Rede SENAC-TAT
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#04_ Material Extra de Estudos de GNU/Linux
+a) Guia Foca: https://guiafoca.org/
+b) SS64: https://ss64.com/
+c) Aurelio: https://aurelio.net/
+d) DistroWatch: https://distrowatch.com/
+e) LPI: https://learning.lpi.org/pt/
+
+#05_ Conhecendo Terminal (Bash/Shell)
+$ - usuário comum (direitos)
+# - usuário root
+sudo 
+
+#06_ Teclas de Atalho do Terminal
+Ctrl + Alt + T  		--> Terminal
+Ctrl + D				--> atalho exit
+Ctrl + L				--> atalho clear
+Ctrl + Alt + Backspace	--> reiniciar X
+Ctrl + Alt + F?			--> Terminal TTY
+Ctrl + Alt + F7			--> Cinnamon
+
+#07_ Atualizando o Sistema via Terminal
+
+#a) o que é e para que server o arquivo sources.list (Debian)
+#b) o que é e para que server o comando apt (apt-get)
+-------------------------------
+sudo apt update		--> atualizar as listas do sources.list
+
+sudo apt upgrade	--> atualizar todos os softwares
+
+sudo apt upgrade -y
+
+sudo apt dist-upgrade
+sudo apt full-upgrade
+
+sudo apt autoremove
+sudo apt autoclean
+
+sudo apt clean
+
+
+#08_ Desligar a Reiniciar o Terminal
+
+#09_ Integração do Git, VScode e Github
+
+Material Github (Antigo) Dell-LinuxMint: 
+Link: https://github.com/vaamonde/dell-linuxmint/blob/master/software/23-git-github.md
+Vídeo: https://www.youtube.com/watch?v=JDCYyjbrJu0
+
+Material atualizado Python3: 
+Link: https://github.com/vaamonde/python3/blob/main/01-introduction/01-install.md
+Vídeo: https://www.youtube.com/watch?v=klIKuVGRHmM
+
+Link: https://github.com/vaamonde/python3/blob/main/01-introduction/02-git-gthub.md
+Vídeo: https://www.youtube.com/watch?v=VBxmsmPK60s
+
+#02) Instalação dos pacotes básicos para a integração
+
+sudo apt update
+sudo apt install git vim pip python3 
+
+#01) Configuração do Git Local
+a) criar um novo repositório no Github
+b) git clone https://github.com/seuusuario/seurepositório
+c) git config --global user.name "Seu Nome"
+d) git config --global user.email seuemail@seudominio.com
+
+e) git config --global core.editor vim
+f) git config --global merge.tool vimdiff
+g) git config --global color.ui true
+
+h) git config --list
+
+i) git pull
+   git add .
+   git commit -m "Atualização"
+   git push
+-------------------------------------
+
+Desafio final: criar um diretório chamado: aulas, copiar os arquivos da Pasta Pública do Linux Mint para esse diretório e atualizar no seu Github Remoto e Local no Linux Mint
+------------------------------------------------------------------------------------------------------------------------------------------------------------
